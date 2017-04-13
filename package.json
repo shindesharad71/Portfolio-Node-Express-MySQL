@@ -1,0 +1,22 @@
+{
+    "name": "nodeportfolio",
+    "version": "1.0.0",
+    "description": "Portfolio Made with Node.",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Sharad Shinde",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "*",
+        "express-validator": "*",
+        "express-handlebars": "*",
+        "mysql": "*",
+        "multer": "*",
+        "connect-flash": "*",
+        "express": "*",
+        "express-session": "*",
+        "moment": "*"
+    }
+}
